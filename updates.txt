@@ -1,25 +1,71 @@
-BUG FIXES
-PLUS,INTERNAL, PERM
-- Updated to latest patch
-- Fps issues Fixed
-- Loader Bugs has been Fixed
-
-ULTIMATE
-- Server Side Spinbot Added
-- Buddy Changer Added
-- Paimon Crash Fixed
-- Chinese Hat Crash Fixed
-- New Skin Patch Added
-
-CS2, VIP & UNLOCKALL
-- ColorBot Product | https://staffbesting.sellhub.cx/product/Staffbesting-ColorBot-Product/
-- Unlockall Product | https://staffbesting.sellhub.cx/product/Unbranded-Unlocker-Product/
-- Fps issues Fixed
-- Loader Bugs has been Fixed
-- Skin Crash issues Fixed
-
-PRODUCTS
-- All Products Updated
-- All Loaders Updated
-- All known problems Fixed
-- Unbranded CS2 Added!
+{
+  "sections": [
+    {
+      "title": "BUG FIXES",
+      "items": [
+        {
+          "title": "PLUS, INTERNAL, PERM",
+          "color": "#e75a3d",
+          "underline": true,
+          "subitems": [
+            "Updated to latest patch",
+            "Fps issues Fixed",
+            "Loader Bugs has been Fixed"
+          ],
+          "images": [
+            "https://i.imgur.com/plus.png",
+            "https://i.imgur.com/image-delivery.png"
+          ],
+          "iframe": "https://streamable.com/e/vo3v4n?"
+        }
+      ]
+    },
+    {
+      "title": "ULTIMATE",
+      "items": [
+        {
+          "subitems": [
+            "Server Side Spinbot Added",
+            "Buddy Changer Added",
+            "Paimon Crash Fixed",
+            "Chinese Hat Crash Fixed",
+            "New Skin Patch Added"
+          ],
+          "images": [
+            "https://i.imgur.com/big_players.png",
+            "https://i.imgur.com/chinese-hat.png",
+            "https://i.imgur.com/recoil.png"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CS2, VIP & UNLOCKALL",
+      "items": [
+        {
+          "subitems": [
+            {"text": "ColorBot Product", "link": "https://staffbesting.sellhub.cx/product/Staffbesting-ColorBot-Product/"},
+            {"text": "Unlockall Product", "link": "https://staffbesting.sellhub.cx/product/Unbranded-Unlocker-Product/"},
+            "Fps issues Fixed",
+            "Loader Bugs has been Fixed",
+            "Skin Crash issues Fixed"
+          ],
+          "images": ["https://i.imgur.com/cs2.png"]
+        }
+      ]
+    },
+    {
+      "title": "PRODUCTS",
+      "items": [
+        {
+          "subitems": [
+            "All Products Updated",
+            "All Loaders Updated",
+            "All known problems Fixed",
+            "Unbranded CS2 Added!"
+          ]
+        }
+      ]
+    }
+  ]
+}
